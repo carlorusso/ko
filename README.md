@@ -1,0 +1,4 @@
+ko
+==
+
+Knockout model
